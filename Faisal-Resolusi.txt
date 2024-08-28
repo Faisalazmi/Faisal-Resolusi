@@ -3,3 +3,4 @@ Faisal Resolusi
 - Belajar PHP
 - Belajar Lavarel
 - Terus Belajar
+- Belajar Object Oriented
